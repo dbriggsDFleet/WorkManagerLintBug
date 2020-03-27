@@ -1,0 +1,2 @@
+rootProject.name='WorkManagerLintBug'
+include ':app'
